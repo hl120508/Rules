@@ -1,2 +1,2 @@
-// Extra
-DOMAIN-SUFFIX,ad.baysecom.com,REJECT
+ // Extra
+ DOMAIN-KEYWORD,baysecom,REJECT
