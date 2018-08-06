@@ -1,2 +1,2 @@
  // Extra
- DOMAIN-KEYWORD,baysecom,REJECT
+ HOST-SUFFIX,ad.bayescom.com,REJECT
